@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: "Something_new"
